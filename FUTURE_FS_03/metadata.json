@@ -1,0 +1,6 @@
+{
+  "name": "Veda Aesthetic Clinic & Wellness Lounge",
+  "description": "Premier aesthetic dermatology, laser skin therapy, and clinical wellness clinic in Indiranagar, Bengaluru. Book consultations, view treatments, and explore patient testimonials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
